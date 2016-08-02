@@ -1,0 +1,30 @@
+{
+  "name": "crstankbot",
+  "version": "1.0.0",
+  "description": "bot for crstank monitoring",
+  "main": "crstankbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nadir93/crstankbot.git"
+  },
+  "dependencies": {
+    "@slack/client": "^3.5.4",
+    "bunyan": "^1.8.1",
+    "phantom": "^2.1.14",
+    "request": "^2.74.0",
+    "underscore": "^1.8.3"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": "@nadir93",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadir93/crstankbot/issues"
+  },
+  "homepage": "https://github.com/nadir93/crstankbot"
+}
