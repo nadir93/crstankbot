@@ -6,7 +6,7 @@
 
 ## install 
 
-install this module as a Hubot dependency
+install this module as a [Hubot](https://hubot.github.com) dependency
 
 ```
 $ npm install crstankbot --save
