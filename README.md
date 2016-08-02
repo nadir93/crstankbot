@@ -1,6 +1,6 @@
 # crstankbot
-[CRS](https://www.theaquariumwiki.com/Caridina_cf._cantonensis) tank monitoring bot for
-[Slack](https://slack.com).
+[crs](https://www.theaquariumwiki.com/Caridina_cf._cantonensis) tank monitoring bot for
+[slack](https://slack.com).
 
 ## install 
 
