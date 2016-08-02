@@ -6,6 +6,18 @@
 
 ## install 
 
+install this module as a [Hubot](https://hubot.github.com) dependency
+
+```
+$ npm install crstankbot --save
+```
+
+Add the **crstankbot** to your `external-scripts.json` (you may need to create this file).
+
+```
+["crstankbot"]
+```
+
 ### register slack bot 
 
 Add a new bot integration [here](https://slack.com/services/new/bot) with the

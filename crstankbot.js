@@ -44,7 +44,6 @@ module.exports = function(robot) {
         var bottomdate;
         var bottomtemp = 1000;
         var data = _.filter(feeds, function(obj, index) {
-          //if (index % 60 == 0) {
           var tmp = Number(obj.field1);
           if (toptemp < tmp) {
             toptemp = tmp;
@@ -59,7 +58,6 @@ module.exports = function(robot) {
           if(feeds.length - 1 == index){
             return true;
           }
-          //}
           return index % 60 == 0;
         });
         log.debug('data=' + util.inspect(data));
