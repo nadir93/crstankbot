@@ -1,6 +1,6 @@
 {
   "name": "crstankbot",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "bot for crstank monitoring",
   "main": "crstankbot.js",
   "scripts": {
@@ -19,7 +19,12 @@
   },
   "keywords": [
     "hubot",
-    "hubot-scripts"
+    "hubot-scripts",
+    "bot",
+    "slack",
+    "crs",
+    "aquarium",
+    "temperature"
   ],
   "author": "@nadir93",
   "license": "ISC",
