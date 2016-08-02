@@ -1,5 +1,3 @@
-[![NPM](https://nodei.co/npm/crstankbot.png?downloads=true)](https://nodei.co/npm/crstankbot/)
-
 # crstankbot
 [crs](https://www.theaquariumwiki.com/Caridina_cf._cantonensis) tank monitoring bot for
 [slack](https://slack.com).
