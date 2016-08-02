@@ -4,7 +4,7 @@
 var loglevel = 'debug';
 var Logger = require('bunyan'),
   log = new Logger.createLogger({
-    name: 'fishtankbot',
+    name: 'crstankbot',
     level: loglevel
   });
 var phantom = require('phantom');
