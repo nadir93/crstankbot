@@ -4,7 +4,7 @@
 
 ![crstankbot](https://raw.githubusercontent.com/nadir93/crstankbot/master/res/crstankbot.png)
 
-## install 
+### install 
 
 install this module as a [Hubot](https://hubot.github.com) dependency
 
